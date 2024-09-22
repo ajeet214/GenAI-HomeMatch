@@ -1,0 +1,92 @@
+[
+  {
+    "location": "Downtown Los Angeles",
+    "list_price": 1800000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1800,
+    "school_rating": 4.5,
+    "description": "Luxurious penthouse with floor-to-ceiling windows, boasting stunning city views. Features a gourmet kitchen, spacious open layout, and private balcony. Building amenities include a rooftop pool, gym, and 24-hour concierge."
+  },
+  {
+    "location": "Hollywood",
+    "list_price": 2500000,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 2400,
+    "school_rating": 4.6,
+    "description": "Modern villa nestled in the Hollywood Hills, featuring a home theater, infinity pool, and panoramic views of the city. This home is a true entertainer's dream, complete with high-end finishes and smart home technology."
+  },
+  {
+    "location": "Santa Monica",
+    "list_price": 3200000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 3000,
+    "school_rating": 4.8,
+    "description": "Stunning beachfront property with private access to the sand. This newly renovated home includes a chef's kitchen, spacious deck for entertaining, and large windows offering breathtaking ocean views. Walking distance to the pier and local dining."
+  },
+  {
+    "location": "Sherman Oaks",
+    "list_price": 1450000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2000,
+    "school_rating": 4.7,
+    "description": "Charming ranch-style home in the heart of the Valley. Features an updated kitchen, large backyard with pool, and a cozy fireplace. Located on a quiet street with top-rated schools and easy access to Ventura Blvd."
+  },
+  {
+    "location": "Silver Lake",
+    "list_price": 1700000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2200,
+    "school_rating": 4.4,
+    "description": "Architectural gem with modern design and eco-friendly features. This home includes solar panels, an open floor plan, and a rooftop garden. Located in a trendy neighborhood known for its vibrant art scene and cafes."
+  },
+  {
+    "location": "Venice",
+    "list_price": 2700000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 2000,
+    "school_rating": 4.5,
+    "description": "Contemporary beachfront condo just steps from the iconic Venice Boardwalk. Features include a gourmet kitchen, open-concept living area, and private rooftop deck with ocean views. Building offers a fitness center and secured parking."
+  },
+  {
+    "location": "Beverly Hills",
+    "list_price": 5200000,
+    "bedrooms": 6,
+    "bathrooms": 4,
+    "square_feet": 6000,
+    "school_rating": 4.9,
+    "description": "Palatial estate in the heart of Beverly Hills, boasting a private gated entrance, grand foyer, and expansive outdoor entertaining spaces with a pool and tennis court. This luxurious home offers ultimate privacy and sophistication."
+  },
+  {
+    "location": "Brentwood",
+    "list_price": 4100000,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 4500,
+    "school_rating": 4.8,
+    "description": "Elegant family home with a spacious layout, gourmet kitchen, and large backyard with a pool and garden. Located in a highly desirable neighborhood, close to parks, top-rated schools, and the Brentwood Country Club."
+  },
+  {
+    "location": "Echo Park",
+    "list_price": 1200000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1600,
+    "school_rating": 4.3,
+    "description": "Mid-century modern home with open spaces, vaulted ceilings, and large windows providing plenty of natural light. This property features a private garden and is steps away from Echo Park Lake and local dining hotspots."
+  },
+  {
+    "location": "San Pedro",
+    "list_price": 950000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1800,
+    "school_rating": 4.1,
+    "description": "Charming coastal home with harbor views and a spacious backyard. Updated kitchen and bathrooms, with easy access to the marina, parks, and San Pedro's vibrant waterfront."
+  }
+]
